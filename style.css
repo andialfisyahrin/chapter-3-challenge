@@ -1,0 +1,256 @@
+body, html {
+    height: 100%;
+  }
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 60px;  
+}
+
+.container{
+    display
+}
+
+.container a{
+    color: white;
+}
+
+.navbar-brand{
+    margin-right: 100px;
+}
+
+.bg {
+    background-image: url("/assets/main-bg.jpg ");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero{
+    height: 100vh;
+}
+
+.hero h1{
+    color: white;
+    font-size: 58px;
+}
+
+.hero p{
+    color: white;
+}
+
+.hero button{
+    background-color: orange;
+    border: none;
+    padding: 5px 50px;
+    font-size: 12px;
+}
+
+.games{
+    background-image: url("/assets/the-games-bg.jpg ");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+
+/* .games .container{
+    padding-top: 50px;
+} */
+
+.the_games p{
+    color: white;
+}
+
+.the_games h2{
+    color: white;
+    font-size: 62px;
+}
+
+.games_image{
+    width: 50%;
+    height: 454px;
+}
+
+.kelas_carousel{
+    margin-top: 50px;
+}
+
+.features{
+    background-image: url("/assets/features.jpg ");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.icon-costum-left{
+    margin-left:-4rem;
+}
+
+.icon-costum-right{
+    margin-right: -4rem;
+}
+
+.the_features p{
+    color: white;
+}
+
+.the_features h2{
+    color: white;
+}
+
+.titik{
+    width: 10px;
+    height: 10px;
+}
+
+.features .col-3{
+    width: 20%;
+}
+
+.features_text h2{
+    color:#FBB341;
+}
+
+.features_text p{
+    color: white;
+}
+
+.requirement{
+    background-image: url("/assets/requirements.png ");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;     
+}
+
+.the_requirement{
+    padding-top: 50px;
+}
+.the_requirement h2{
+    color: white;
+}
+
+.the_requirement h3{
+    color: #FBB341;
+}
+
+.the_requirement p{
+    color: white;
+}
+.info{
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.top_scores{
+    background-image: url("https://hopeful-brahmagupta-ddaa93.netlify.app/assets/img/bg-5.webp");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.image_top_score{
+    width: 62px;
+    height: 62px;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+
+
+.card_category h2{
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 64px;
+    line-spacing: 3px;
+    color: white;
+}
+
+.card_category p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    color: white;
+}
+
+.card_category button{
+    background-color: orange;
+    border: none;
+    padding: 5px 50px;
+    font-size: 12px;
+}
+.card_title h3{
+    color:#FFB548;
+    font-size: 24px;
+    font-weigth: 400;
+    line-height: 28px;
+}
+
+.card_description p{
+    font-size: 18px;
+    font-weigth: 400;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+
+.card_footer p{
+    font-size: 14px;
+    font-weigth: 400;
+    line-height: 19px;
+    opacity: 0.5;
+    margin-bottom: 0;
+}
+
+.newsletter{
+    background-color: black;
+}
+
+.newsletter_exp p{
+    color: white;
+}
+
+.newsletter_exp h2{
+    color: white;
+    font-size: 65px;
+    font-weigth: 400;
+    line-height: 75px;
+}
+
+.form-control{
+    border: none;
+}
+
+.newsletter_exp button{
+    background-color: orange;
+    border: none;
+    padding: 5px 50px;
+    font-size: 12px;
+}
+
+.footer{
+    background-color: black;
+}
+
+.footer p{
+    font-size: 12px;
+    font-weigth: 700;
+    line-height: 16px;
+    margin-bottom: 0;
+}
+
+.footer_copy p{
+    color: white;
+    opacity: .5;
+}
+
+.footer_policy p{
+    color: white;
+}
+
